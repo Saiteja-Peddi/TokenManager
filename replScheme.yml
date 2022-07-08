@@ -1,0 +1,26 @@
+---
+tokens:
+- token: '1'
+  writer: localhost:4200
+  readers:
+  - localhost:4200
+  - localhost:4201
+  - localhost:4202
+- token: '2'
+  writer: localhost:4200
+  readers:
+  - localhost:4200
+  - localhost:4201
+  - localhost:4202
+- token: '3'
+  writer: localhost:4200
+  readers:
+  - localhost:4200
+  - localhost:4201
+  - localhost:4202
+- token: '4'
+  writer: localhost:4200
+  readers:
+  - localhost:4200
+  - localhost:4201
+  - localhost:4202
